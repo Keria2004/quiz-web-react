@@ -6,8 +6,8 @@ class MyComponent extends React.Component {
   state = {
     listUsers: [
       { id: 1, name: "Sơn", age: 21 },
-      { id: 2, name: "Băng", age: 22 },
-      { id: 3, name: "Tiểu", age: 23 },
+      { id: 2, name: "Băng", age: 16 },
+      { id: 3, name: "Tiểu", age: 50 },
     ],
   };
 
